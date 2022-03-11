@@ -1,3 +1,7 @@
+Just a basic Netflix Clone with ReactJS, i'm not using any API and/or dynamic informations, i will use those in a futur bigger netflix react project.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
