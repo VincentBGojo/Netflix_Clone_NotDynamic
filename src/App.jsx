@@ -7,7 +7,7 @@ import Login from "./pages/login/Login";
 
 //our main component
 const App = () => {
-  return <Watch />;
+  return <Login />;
 };
 
 export default App;
